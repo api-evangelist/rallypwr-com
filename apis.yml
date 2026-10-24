@@ -21,5 +21,7 @@ maintainers:
 x-backed-by:
 - techstars
 common:
+- type: DomainSecurity
+  url: security/rallypwr-com-domain-security.yml
 - type: Website
   url: https://rallypwr.com/
